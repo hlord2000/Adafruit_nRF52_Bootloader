@@ -28,6 +28,7 @@ jobs:
           # Other Makers (Alphabetical order)
           - 'adm_b_nrf52840_1'
           - 'ae_bl652_bo'
+          - 'angry_miao_hatsu'
           - 'aramcon_badge_2019'
           - 'aramcon2_badge'
           - 'arcade_feather_nrf52840_express'
